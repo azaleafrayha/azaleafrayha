@@ -6,9 +6,9 @@ A 16-year-old student from Indonesia who's currently obsessed with the world of 
 # 📊 GitHub Stats:
 I'm a big believer in "learning by doing", so you'll mostly see me experimenting with code, breaking things, and trying to build something cool along the way.
 I enjoy learning as if it were a game, and I treat GitHub as my "Duolingo for programmers" where I try to make at least one contribution per day.
-![](https://github-readme-stats.vercel.app/api?username=azaleafrayha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&cache_seconds=1800)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=azaleafrayha&theme=dark&hide_border=true&cache_seconds=1800)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azaleafrayha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api?username=azaleafrayha&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=azaleafrayha&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=azaleafrayha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Worth Remembering
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
