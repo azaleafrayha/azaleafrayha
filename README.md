@@ -5,7 +5,7 @@ A 16-year-old student from Indonesia who's currently obsessed with the world of 
 <br><br>
 # 📊 GitHub Stats:
 I'm a big believer in "learning by doing", so you'll mostly see me experimenting with code, breaking things, and trying to build something cool along the way.
-I enjoy learning as if it were a game, and I treat GitHub as my "Duolingo for programmers" where I try to make at least one contribution per day.
+I enjoy learning as if it were a game, and I treat GitHub as my "Duolingo for programmers" where I try to make at least one contribution per day. <br>
 ![](https://github-readme-stats.vercel.app/api?username=azaleafrayha&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=azaleafrayha&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azaleafrayha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
