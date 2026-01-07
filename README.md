@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there, I'm Zal!
+A 16-year-old student from Indonesia who's currently obsessed with the world of AI and Machine Learning. 🚀<br> I'm currently learning Python through hands-on projects, playing with data, automation, and problem-solving. Most of my projects start from FreeCodeCamp and are reworked using my own logic.
+<br><br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+<br><br>
+# 📊 GitHub Stats:
+I'm a big believer in "learning by doing", so you'll mostly see me experimenting with code, breaking things, and trying to build something cool along the way.
+I enjoy learning as if it were a game, and I treat GitHub as my "Duolingo for programmers" where I try to make at least one contribution per day.
+![](https://github-readme-stats.vercel.app/api?username=azaleafrayha&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=azaleafrayha&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=azaleafrayha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!--
-**azaleafrayha/azaleafrayha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✍️ Worth Remembering
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-Here are some ideas to get you started:
+### Always down to chat about tech, AI, or even just life as a student developer!
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/F9DFSyaU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zalfrayha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zalea473@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
