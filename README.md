@@ -4,7 +4,7 @@ I'm currently learning Python through hands-on projects, playing with data, auto
 <br><br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 <br><br>
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 I'm a big believer in "learning by doing", so you'll mostly see me experimenting with code, breaking things, and trying to build something cool along the way.
 I enjoy learning as if it were a game, and I treat GitHub as my "Duolingo for programmers" where I try to make at least one contribution per day. <br>
 ![](https://github-readme-stats.vercel.app/api?username=azaleafrayha&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
