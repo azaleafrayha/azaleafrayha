@@ -1,5 +1,5 @@
 # Hey there, I'm Zal!
-A 16-year-old student from Indonesia with a strong interest in AI and Machine Learning.<br> I'm currently learning Python through hands-on projects, playing with data, automation, and problem-solving. Most of my projects start from FreeCodeCamp and are reworked using my own logic.
+A 16-year-old student from Indonesia with a strong interest in AI and Machine Learning. 💡<br> I'm currently learning Python through hands-on projects, playing with data, automation, and problem-solving. Most of my projects start from FreeCodeCamp and are reworked using my own logic.
 <br><br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 <br><br>
@@ -10,7 +10,7 @@ I enjoy learning as if it were a game, and I treat GitHub as my "Duolingo for pr
 ![](https://nirzak-streak-stats.vercel.app/?user=azaleafrayha&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azaleafrayha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Worth Remembering
+# ✍️ Worth Remembering
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### Always down to chat about tech, AI, or even just life as a student developer!
