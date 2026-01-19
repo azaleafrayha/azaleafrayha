@@ -11,7 +11,7 @@ I enjoy learning as if it were a game, and I treat GitHub as my "Duolingo for pr
 ![](https://nirzak-streak-stats.vercel.app/?user=azaleafrayha&theme=dark&hide_border=true)<br/>
 
 
-## ✍️ Worth Remembering
+### ✍️ Worth Remembering
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### Always down to chat about tech, AI, or even just life as a student developer!
