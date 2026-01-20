@@ -6,7 +6,7 @@ I'm currently learning Python through hands-on projects, playing with data, auto
 <br><br>
 # 📊 GitHub Stats:
 I'm a big believer in "learning by doing", so you'll mostly see me experimenting with code, breaking things, and trying to build something cool along the way.
-I enjoy learning as if it were a game, and I treat GitHub as my "Duolingo for programmers" where I try to make at least one contribution per day. <br>
+I enjoy learning as if it were a game, and I treat GitHub as my "Duolingo for programmers" where I try to make at least one contribution per day to keep my streak alive. <br>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=azaleafrayha&theme=dark&hide_border=true)<br/>
 
