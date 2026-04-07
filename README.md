@@ -1,18 +1,22 @@
 # Hey there, I'm Zal!
-A 16-year-old student from Indonesia with a strong interest in AI and Machine Learning. 💡<br><br>
-I'm currently learning Python through hands-on projects, working with data, automation scripts, and problem-solving logic. Many of my projects are inspired by freeCodeCamp challenges, then rebuilt and expanded using my own logic and structure.
-<br><br>
-**Long-term goal**: building intelligent systems that solve real-world problems
-<br><br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-<br><br>
-# 📊 GitHub Stats:
-I'm a big believer in "learning by doing", so you'll mostly see me experimenting with code, breaking things, and trying to build something cool along the way.
-I enjoy learning as if it were a game, and I treat GitHub as my "Duolingo for programmers" where I try to make at least one contribution per day to keep my streak alive. <br>
+A student from Indonesia who loves to build things. I’m mostly a self-taught developer, learning through trial and error while documenting my projects along the way.
+<br>
+### What's On My Desk:
+* **C++ & Arduino IDE:** Learning how to talk to microcontrollers.
+* **Python:** My first love, now using it for data and automation.
+* **Logic:** Turning complex problems into simple, functional code.
+* **The Big Picture:** Transitioning from screen-based code to building physical, AI-powered systems.
 
-![](https://nirzak-streak-stats.vercel.app/?user=azaleafrayha&theme=dark&hide_border=true)<br/>
 
-### Contact me: <br>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/F9DFSyaU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zalfrayha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zalea473@gmail.com) 
-#### Always down to chat about tech, code, AI, or even just life as a student developer!
+### My Toolkit:
 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+<br>
+
+### Let's Connect! 
+Always down to chat about robotics, AI, or even just life as a student developer.
